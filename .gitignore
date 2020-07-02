@@ -24,3 +24,6 @@ docs/site/
 Manifest.toml
 
 *.mp4 # movie files
+
+# Jupyter Lab stuff
+.ipynb_checkpoints
