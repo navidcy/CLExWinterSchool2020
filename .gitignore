@@ -23,7 +23,7 @@ docs/site/
 # environment.
 Manifest.toml
 
-*.mp4 # movie files
+**/*.mp4 # movie files
 
 # Jupyter Lab stuff
-.ipynb_checkpoints
+**/.ipynb_checkpoints
