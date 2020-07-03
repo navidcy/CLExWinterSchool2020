@@ -27,3 +27,6 @@ Manifest.toml
 
 # Jupyter Lab stuff
 **/.ipynb_checkpoints
+
+.DS_Store
+simulations/*.mp4
