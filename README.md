@@ -1,5 +1,5 @@
 # [CLEx Winter School 2020: Atmosphere and Ocean Dynamics](https://climateextremes.org.au/clex-virtual-winter-school-2020/)
-## Lecturers: Annie Foppert, Martin Singh and Navid Constantinou
+## Lecturers: Annie Foppert, Martin Singh, and Navid Constantinou
 
 ### (Teaser version via Zoom due to COVID-19)
 
@@ -11,8 +11,8 @@ This repository contains the lecture given by Navid as part of the "teaser"-vers
 
 ## Contents:
 
-- `slides`: The pdf-version of the slides; open via <a href="https://nbviewer.jupyter.org/github/navidcy/CLExWinterSchool2020/blob/master/slides/NavidSlides.pdf" 
-   target="_parent"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20"></a>.
+- `slides`: The pdf-version of the slides; open via: <a href="https://nbviewer.jupyter.org/github/navidcy/CLExWinterSchool2020/blob/master/slides/NavidSlides.pdf" 
+   target="_parent"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20"></a>
 - `simulations`: Jupyter notebooks that reproduce the animations used in the slides.
 
 
