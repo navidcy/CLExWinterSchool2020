@@ -1,4 +1,4 @@
-# Simulations
+## Simulations
 
 This folder contains Jupyter notebooks that reproduce the animations used in the presentation. The Jupyter notebooks run [Julia](https://www.julialang.org) (which, by the way, happens to be the "Ju" in Jupyter).
 
