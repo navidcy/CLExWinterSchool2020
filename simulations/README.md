@@ -12,3 +12,7 @@ This folder contains Jupyter notebooks that reproduce the animations used in the
 To run the notebooks locally you would need to [install Julia](https://www.julialang.org/downloads/) on your machine. Afterwards you need to install the [`IJulia` package](https://github.com/JuliaLang/IJulia.jl) so that Jupyter notebooks can run Julia. This is done simply by calling `using Pkg; Pkg.add("IJulia")` within the Julia REPL.
 
 Alternatively, you can run the notebooks online via Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/navidcy/CLExWinterSchool2020/master)
+
+Furthermore,
+
+- `SWE` directory contains a Jupyter notebook that solves the 1D shallow-water equations on an f-plane.
